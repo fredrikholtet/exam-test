@@ -2,3 +2,4 @@
 [![Publish Docker image](https://github.com/fredrikholtet/exam-test/actions/workflows/dockerimage.yml/badge.svg)](https://github.com/fredrikholtet/exam-test/actions/workflows/dockerimage.yml)
 # exam-test 
 # test
+
